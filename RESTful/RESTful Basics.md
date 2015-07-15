@@ -5,6 +5,7 @@ Representational State Transfer(REST)
 ## The basics
 
 a concrete implementation of a REST Web service follows four basic design principles :
+
 + Use HTTP methods explicitly.
 + Be stateless.
 + Expose directory structure-like URIs.
